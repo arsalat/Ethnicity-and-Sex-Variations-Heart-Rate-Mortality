@@ -12,4 +12,4 @@ Conclusion:
 
 Based on our analysis, the American Indian and Alaskan Native population is at the highest risk of dying from heart diseases, the Hispanic population is at the lowest risk of dying from heart diseases.
 
-We also noted that men are higher at a risk of dying from Heart disease than women. There are also significant differences for similar genders across different ethnicities and needs to be explored further.
+We also noted that men are higher at a risk of dying from Heart disease than women. There are also significant differences between similar genders across different ethnicities and needs to be explored further.
